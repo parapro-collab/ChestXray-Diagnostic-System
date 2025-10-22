@@ -1,0 +1,10 @@
+{
+  "n_images_processed": 100,
+  "n_features_original": 2435,
+  "n_features_pca": 50,
+  "silhouette_score": 0.0,
+  "variance_explained": 0.9999362799151645,
+  "labels_distribution": {
+    "UNKNOWN": 100
+  }
+}

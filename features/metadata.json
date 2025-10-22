@@ -1,0 +1,1102 @@
+[
+  {
+    "image_id": "00018387_035.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018387_035.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018387_036.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018387_036.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018387_037.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018387_037.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018388_000.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018388_000.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018388_001.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018388_001.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018388_002.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018388_002.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018388_003.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018388_003.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018388_004.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018388_004.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018388_005.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018388_005.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018389_000.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018389_000.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018390_000.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018390_000.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018390_001.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018390_001.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018390_002.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018390_002.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018390_003.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018390_003.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018390_004.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018390_004.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018390_005.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018390_005.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018390_006.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018390_006.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018390_007.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018390_007.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018390_008.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018390_008.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018391_000.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018391_000.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018392_000.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018392_000.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018393_000.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018393_000.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018394_000.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018394_000.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018394_001.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018394_001.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018394_002.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018394_002.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018394_003.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018394_003.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018394_004.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018394_004.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018394_005.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018394_005.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018395_000.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018395_000.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018396_000.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018396_000.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018397_000.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018397_000.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018398_000.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018398_000.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018399_000.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018399_000.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018399_001.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018399_001.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018400_000.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018400_000.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018401_000.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018401_000.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018402_000.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018402_000.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018403_000.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018403_000.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018403_001.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018403_001.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018403_002.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018403_002.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018403_003.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018403_003.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018403_004.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018403_004.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018403_005.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018403_005.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018404_000.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018404_000.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018404_001.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018404_001.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018404_002.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018404_002.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018404_003.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018404_003.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018404_004.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018404_004.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018404_005.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018404_005.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018404_006.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018404_006.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018404_007.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018404_007.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018404_008.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018404_008.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018404_009.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018404_009.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018404_010.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018404_010.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018404_011.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018404_011.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018404_012.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018404_012.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018404_013.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018404_013.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018404_014.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018404_014.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018404_015.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018404_015.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018404_016.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018404_016.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018404_017.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018404_017.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018404_018.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018404_018.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018405_000.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018405_000.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018406_000.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018406_000.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018406_001.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018406_001.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018407_000.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018407_000.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018408_000.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018408_000.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018409_000.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018409_000.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018409_001.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018409_001.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018409_002.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018409_002.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018410_000.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018410_000.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018411_000.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018411_000.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018411_001.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018411_001.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018411_002.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018411_002.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018412_000.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018412_000.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018412_001.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018412_001.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018412_002.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018412_002.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018412_003.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018412_003.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018412_004.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018412_004.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018412_005.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018412_005.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018412_006.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018412_006.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018412_007.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018412_007.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018413_000.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018413_000.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018414_000.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018414_000.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018414_001.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018414_001.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018414_002.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018414_002.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018415_000.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018415_000.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00018416_000.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00018416_000.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00020945_050.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00020945_050.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00020945_051.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00020945_051.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00020945_052.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00020945_052.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00020945_053.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00020945_053.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00020945_054.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00020945_054.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00020945_055.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00020945_055.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00020945_056.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00020945_056.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00020945_057.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00020945_057.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00020945_058.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00020945_058.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00020946_000.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00020946_000.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00020947_000.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00020947_000.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  },
+  {
+    "image_id": "00020947_001.png",
+    "image_path": "C:\\Users\\ACER\\Desktop\\new folder\\Saoussen\\mmehela\\projet\\chestxray_diagnostic_system\\data\\raw\\images\\00020947_001.png",
+    "label": "UNKNOWN",
+    "image_shape": [
+      1024,
+      1024,
+      3
+    ],
+    "features_dim": 2435
+  }
+]
